@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1447428f.css",
+    "main.js": "/static/js/main.02cce9b0.js",
+    "static/media/meeting.jpg": "/static/media/meeting.c02d1c758caa4989c54c.jpg",
+    "static/media/ValueBG.jpg": "/static/media/ValueBG.7aef59d862d58d0ddde6.jpg",
+    "static/media/loading.gif": "/static/media/loading.e2aa61ae2c935e7cb7fe.gif",
+    "static/media/Logo5.png": "/static/media/Logo5.4ae59955b6f2989cce25.png",
+    "static/media/Logo3.png": "/static/media/Logo3.4f27e2a6e7769855abf1.png",
+    "static/media/Logo4.png": "/static/media/Logo4.b7cd8bb0e971331f4fee.png",
+    "static/media/Trust.png": "/static/media/Trust.35e06e7ed458cc1ca3da.png",
+    "static/media/login.svg": "/static/media/login.d8610986efe110939e295877cc931ea1.svg",
+    "static/media/Diamond.png": "/static/media/Diamond.23b3a1ab733970478743.png",
+    "static/media/Logo6.png": "/static/media/Logo6.6656000141cb6a3b7e37.png",
+    "static/media/Logo8.png": "/static/media/Logo8.1e5095773caa6e6c65f0.png",
+    "static/media/Logo7.png": "/static/media/Logo7.9dc6cb09bb9287493258.png",
+    "static/media/Logo1.png": "/static/media/Logo1.e3a94d2eb9f5a5074546.png",
+    "static/media/Simple.png": "/static/media/Simple.9fdb020e4d525956f324.png",
+    "static/media/Logo2.png": "/static/media/Logo2.ef9a64ce576cf2825a49.png",
+    "index.html": "/index.html",
+    "main.1447428f.css.map": "/static/css/main.1447428f.css.map",
+    "main.02cce9b0.js.map": "/static/js/main.02cce9b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1447428f.css",
+    "static/js/main.02cce9b0.js"
+  ]
+}
