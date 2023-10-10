@@ -1,7 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
 
 import Main from "../layout/main/Main";
-import AccountCreator from "../pages/register/AccountCreator";
+
 import Home from "../pages/home/Home";
 import JobDetails from "../pages/JobDetails";
 import Jobs from "../pages/Jobs";
@@ -40,22 +40,7 @@ const routes = createBrowserRouter([
         ),
       },
      
-      {
-        path: "/register",
-        element: (
-          <PrivateRoute>
-            <AccountCreator />
-          </PrivateRoute>
-        ),
-      },
-      {
-        path: "/register/:type",
-        element: (
-          <PrivateRoute>
-            <AccountCreator />
-          </PrivateRoute>
-        ),
-      },
+      
     ],
   },
   

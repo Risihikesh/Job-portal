@@ -50,21 +50,7 @@ const Navbar = () => {
             Login
           </Link>
         </li>}
-        {email && ((email && role) ? <li>
-          <Link
-            className='border border-black px-2 py-1 rounded-full hover:border-primary hover:text-white hover:bg-primary hover:px-4 transition-all '
-            to={`/dashboard/${email}/${role}`}
-          >
-            Dashboard
-          </Link>
-        </li> : <li>
-          <Link
-            className='border border-black px-2 py-1 rounded-full hover:border-primary hover:text-white hover:bg-primary hover:px-4 transition-all '
-            to='/register'
-          >
-            Register
-          </Link>
-        </li>)}
+        
       </ul>
     </nav>
   );
